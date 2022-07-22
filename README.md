@@ -1,2 +1,2 @@
-### Lab program
+### Lab activity
 
