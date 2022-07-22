@@ -1,2 +1,2 @@
-### Java
+### Lab program
 
